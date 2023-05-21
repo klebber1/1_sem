@@ -1,0 +1,3 @@
+C:/Users/janso/CLionProjects/lista2_ex17/cmake-build-debug/CMakeFiles/lista2_ex1.dir
+C:/Users/janso/CLionProjects/lista2_ex17/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/janso/CLionProjects/lista2_ex17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
