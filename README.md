@@ -1,5 +1,5 @@
 # 1_sem
 
-Conteúdo das materias  
-Exercicios resolvidos em linguagem c 
-primeiro semestre
+First semester of Systems Analysis and Development
+
+Exercises and and content
